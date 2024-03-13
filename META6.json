@@ -1,0 +1,25 @@
+{
+  "auth": "zef:tbrowder",
+  "authors": [
+    "Tom Browder"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "Provides a class and other supporting code auto-generated from a CSV file's header line",
+  "license": "Artistic-2.0",
+  "name": "CSV::Class",
+  "perl": "6.d",
+  "provides": {
+    "CSV::Class": "lib/CSV/Class.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
